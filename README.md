@@ -4,7 +4,7 @@ python 2 SelfOrganizingMaps Implementation
 - Basic Implementation of a self organizing maps
 There are two files : 
 ****************
-SOMProva.py 
+SOMTest.py 
 ****************
 It contains the parameters that should be changed due to what fits you best: 
 
