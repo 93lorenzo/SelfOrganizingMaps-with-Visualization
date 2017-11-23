@@ -9,7 +9,7 @@ import sys
 from time import gmtime, strftime
 
 
-class SOMLorenzo(object):
+class SOMExample(object):
 
     ## Self Organizing Map Class
     ## self.input_vectors -> all the "training data" given in input to move the nodes
