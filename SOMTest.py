@@ -88,7 +88,7 @@ input_vectors = making_input_list(input_vectors_images_path=input_vectors_images
 
 print "---INPUT VECTOR DONE---"
 
-MyMOP = SOMLorenzo(input_vectors=input_vectors,nodes_weights_w=w,nodes_weights_h=h ,LEARNING_RATE_ZERO=LR, MAX_ITERATION=MAX_ITERATION,vector_len=desired_feature,input_vectors_images_path=input_vectors_images_path)
+MyMOP = SOMExample(input_vectors=input_vectors,nodes_weights_w=w,nodes_weights_h=h ,LEARNING_RATE_ZERO=LR, MAX_ITERATION=MAX_ITERATION,vector_len=desired_feature,input_vectors_images_path=input_vectors_images_path)
 # THIS IS THE VIDEO NAME TO BE ABLE TO IDENTIFY IT BETTER I CALLED IT USING THE PARAMETERS
 video_name =  "len=" + str(len(input_vectors)) + "_iterations=" + str(MAX_ITERATION) + "_w=h=" + str(w) + "_LR" + str(LR) + "_features=" + str(desired_feature) + ".avi"
 MyMOP.training(video_name)
