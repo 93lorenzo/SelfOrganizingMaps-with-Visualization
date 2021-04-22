@@ -48,3 +48,7 @@ here is where the self organizing maps is implemented.
 
 
 [Video Example](https://www.youtube.com/watch?v=r-MkZm0s2iM)
+
+https://user-images.githubusercontent.com/13660998/115671732-1d09fa80-a34b-11eb-8b77-7f9845cd9e2f.mp4
+
+
