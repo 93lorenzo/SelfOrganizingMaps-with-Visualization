@@ -47,5 +47,4 @@ This file contains the class SOMLORENZO
 here is where the self organizing maps is implemented.
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r-MkZm0s2iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Video Example](https://www.youtube.com/watch?v=r-MkZm0s2iM)
